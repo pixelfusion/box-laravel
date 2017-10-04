@@ -15,12 +15,18 @@
         }
     },
     "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/pixelfusion/box-sdk"
+        }
+    ],
     "require": {
         "php": ">=7.0.0",
         "beberlei/assert": "^2.7",
         "illuminate/container": "~5.4.0|~5.5.0",
         "illuminate/support": "~5.4.0|~5.5.0",
-        "pixelfusion/box-sdk": "~0.2.5",
+        "jpcaparas/box-sdk": "~0.2.5",
         "symfony/http-foundation": "^3.3"
     },
     "config": {
