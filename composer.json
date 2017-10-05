@@ -1,5 +1,5 @@
 {
-    "name": "jpcaparas/box-laravel",
+    "name": "pixelfusion/box-laravel",
     "description": "A service provider for the Box v2 SDK.",
     "type": "library",
     "license": "MIT",
@@ -27,7 +27,7 @@
         "beberlei/assert": "^2.7",
         "illuminate/container": "~5.4.0|~5.5.0",
         "illuminate/support": "~5.4.0|~5.5.0",
-        "jpcaparas/box-sdk": "~0.2.5",
+        "pixelfusion/box-sdk": "~0.2.6",
         "symfony/http-foundation": "^3.3"
     },
     "config": {

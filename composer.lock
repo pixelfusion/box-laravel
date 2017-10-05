@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "99a701ac472a1334f44482dc1b1dfe47",
-    "content-hash": "b8a5cee32b13e95154c0723d7dda6bd4",
+    "hash": "60d191d3e2083c78f1c09675570730bb",
+    "content-hash": "f3e60865d18ac982d45d80be8b559594",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -499,55 +499,6 @@
             "time": "2017-10-03 13:11:00"
         },
         {
-            "name": "jpcaparas/box-sdk",
-            "version": "v0.2.5",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/pixelfusion/box-sdk.git",
-                "reference": "38493ac562da3afa872593b5cf86dc9808817821"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/pixelfusion/box-sdk/zipball/38493ac562da3afa872593b5cf86dc9808817821",
-                "reference": "38493ac562da3afa872593b5cf86dc9808817821",
-                "shasum": ""
-            },
-            "require": {
-                "firebase/php-jwt": "^4.0",
-                "guzzlehttp/guzzle": "^6.2",
-                "webmozart/assert": "^1.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^5.7",
-                "symfony/var-dumper": "^3.2",
-                "symfony/yaml": "^3.2"
-            },
-            "type": "sdk",
-            "autoload": {
-                "psr-4": {
-                    "Linkstreet\\Box\\": "src\\Box\\"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Cerlin",
-                    "email": "cerlin@linkstreet.in"
-                },
-                {
-                    "name": "JP Caparas",
-                    "email": "jp@jpcaparas.com"
-                }
-            ],
-            "description": "v2 Box sdk for php",
-            "support": {
-                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.5"
-            },
-            "time": "2017-10-04 21:21:35"
-        },
-        {
             "name": "nesbot/carbon",
             "version": "dev-master",
             "source": {
@@ -599,6 +550,55 @@
                 "time"
             ],
             "time": "2017-02-06 22:02:47"
+        },
+        {
+            "name": "pixelfusion/box-sdk",
+            "version": "v0.2.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pixelfusion/box-sdk.git",
+                "reference": "5a7bd51e3a8b903f60ab9d0ddd1510194940b731"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pixelfusion/box-sdk/zipball/5a7bd51e3a8b903f60ab9d0ddd1510194940b731",
+                "reference": "5a7bd51e3a8b903f60ab9d0ddd1510194940b731",
+                "shasum": ""
+            },
+            "require": {
+                "firebase/php-jwt": "^4.0",
+                "guzzlehttp/guzzle": "^6.2",
+                "webmozart/assert": "^1.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7",
+                "symfony/var-dumper": "^3.2",
+                "symfony/yaml": "^3.2"
+            },
+            "type": "sdk",
+            "autoload": {
+                "psr-4": {
+                    "Linkstreet\\Box\\": "src\\Box\\"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Cerlin",
+                    "email": "cerlin@linkstreet.in"
+                },
+                {
+                    "name": "JP Caparas",
+                    "email": "jp@jpcaparas.com"
+                }
+            ],
+            "description": "v2 Box sdk for php",
+            "support": {
+                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.6"
+            },
+            "time": "2017-10-05 01:34:03"
         },
         {
             "name": "psr/container",
