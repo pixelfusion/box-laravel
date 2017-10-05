@@ -14,7 +14,8 @@
             "JPCaparas\\Box\\": "/src"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stabe" : true,
     "repositories": [
         {
             "type": "vcs",
