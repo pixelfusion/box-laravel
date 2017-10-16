@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "60d191d3e2083c78f1c09675570730bb",
-    "content-hash": "f3e60865d18ac982d45d80be8b559594",
+    "hash": "3b14142cdc5892844cd0485b9ec9fdef",
+    "content-hash": "164666d94d67459e05b5098f79951b7c",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -553,16 +553,16 @@
         },
         {
             "name": "pixelfusion/box-sdk",
-            "version": "v0.2.6",
+            "version": "v0.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pixelfusion/box-sdk.git",
-                "reference": "5a7bd51e3a8b903f60ab9d0ddd1510194940b731"
+                "reference": "475e4f759bc8cd05f3ef30466e791cefbc69056c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pixelfusion/box-sdk/zipball/5a7bd51e3a8b903f60ab9d0ddd1510194940b731",
-                "reference": "5a7bd51e3a8b903f60ab9d0ddd1510194940b731",
+                "url": "https://api.github.com/repos/pixelfusion/box-sdk/zipball/475e4f759bc8cd05f3ef30466e791cefbc69056c",
+                "reference": "475e4f759bc8cd05f3ef30466e791cefbc69056c",
                 "shasum": ""
             },
             "require": {
@@ -596,9 +596,9 @@
             ],
             "description": "v2 Box sdk for php",
             "support": {
-                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.6"
+                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.7"
             },
-            "time": "2017-10-05 01:34:03"
+            "time": "2017-10-16 02:40:50"
         },
         {
             "name": "psr/container",
@@ -806,12 +806,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803"
+                "reference": "2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
-                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296",
+                "reference": "2ec8b39c38cb16674bbf3fea2b6ce5bf117e1296",
                 "shasum": ""
             },
             "require": {
@@ -823,7 +823,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.5-dev"
+                    "dev-master": "1.6-dev"
                 }
             },
             "autoload": {
@@ -857,7 +857,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-14 15:44:48"
+            "time": "2017-10-11 12:05:26"
         },
         {
             "name": "symfony/translation",
