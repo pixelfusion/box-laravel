@@ -10,7 +10,7 @@ A service provider for the Box v2 SDK.
 
 ## Min. requirements
 
-- PHP 7.x
+- PHP 7.1.3
 - Laravel 5.6
 
 ## Warranties
