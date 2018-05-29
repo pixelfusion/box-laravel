@@ -25,8 +25,8 @@
     "require": {
         "php": ">=7.0.0",
         "beberlei/assert": "^2.7",
-        "illuminate/container": "~5.4.0|~5.5.0",
-        "illuminate/support": "~5.4.0|~5.5.0",
+        "illuminate/container": "~5.4.0|~5.5.0|~5.6",
+        "illuminate/support": "~5.4.0|~5.5.0|~5.6",
         "pixelfusion/box-sdk": "~0.2.7",
         "symfony/http-foundation": "^3.3"
     },
