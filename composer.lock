@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e59d4e9639d8e5b773de2a320b926f73",
+    "content-hash": "5e7b4273c6d747b9c49280da77478e83",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -549,7 +549,7 @@
         },
         {
             "name": "pixelfusion/box-sdk",
-            "version": "v0.2.7",
+            "version": "v0.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pixelfusion/box-sdk.git",
@@ -592,7 +592,7 @@
             ],
             "description": "v2 Box sdk for php",
             "support": {
-                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.7"
+                "source": "https://github.com/pixelfusion/box-sdk/tree/v0.2.8"
             },
             "time": "2017-10-16T02:40:50+00:00"
         },
