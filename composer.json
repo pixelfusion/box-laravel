@@ -28,7 +28,7 @@
         "illuminate/container": "^5.4|^5.5|^5.6",
         "illuminate/support": "^5.4|^5.5|^5.6",
         "pixelfusion/box-sdk": "~0.2.7",        
-        "symfony/http-foundation": "~4.0"
+        "symfony/http-foundation": "^4.1"
 
     },
     "config": {
